@@ -7,8 +7,3 @@ packages:
   gitUrl: https://github.com/siqagituser
   gitUsername: siqagituser
   gitBranch: main
-- name: TPP_services_in_FCS
-  gitServerName: SIQA_kvv_wm_io
-  gitUrl: https://github.webmethods.io/kvv
-  gitUsername: kvv
-  gitBranch: main
